@@ -9,8 +9,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataingApp.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20200117163302_ExtendedUserClass")]
-    partial class ExtendedUserClass
+    [Migration("20200129175255_userAndPhotosMigration")]
+    partial class userAndPhotosMigration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -32,6 +32,9 @@ namespace DataingApp.API.Migrations
 
                     b.Property<bool>("IsMain")
                         .HasColumnType("INTEGER");
+
+                    b.Property<string>("PublicId")
+                        .HasColumnType("TEXT");
 
                     b.Property<string>("Url")
                         .HasColumnType("TEXT");
@@ -61,7 +64,7 @@ namespace DataingApp.API.Migrations
                     b.Property<DateTime>("Created")
                         .HasColumnType("TEXT");
 
-                    b.Property<DateTime>("DeteOfBirth")
+                    b.Property<DateTime>("DateOfBirth")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Gender")

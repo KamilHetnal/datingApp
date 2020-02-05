@@ -2,7 +2,7 @@
     {
       "Username": "Jessie",
       "Gender": "female",
-      "DeteOfBirth": "1970-11-15",
+      "DateOfBirth": "1970-11-15",
       "Password": "password",
       "KnownAs": "Jessie",
       "Created": "2017-06-24",
@@ -23,7 +23,7 @@
     {
       "Username": "Lorie",
       "Gender": "female",
-      "DeteOfBirth": "1979-12-01",
+      "DateOfBirth": "1979-12-01",
       "Password": "password",
       "KnownAs": "Lorie",
       "Created": "2017-02-28",
@@ -44,7 +44,7 @@
     {
       "Username": "Michelle",
       "Gender": "female",
-      "DeteOfBirth": "1996-03-22",
+      "DateOfBirth": "1996-03-22",
       "Password": "password",
       "KnownAs": "Michelle",
       "Created": "2017-05-03",
@@ -65,7 +65,7 @@
     {
       "Username": "Marcy",
       "Gender": "female",
-      "DeteOfBirth": "1971-01-07",
+      "DateOfBirth": "1971-01-07",
       "Password": "password",
       "KnownAs": "Marcy",
       "Created": "2017-08-25",
@@ -86,7 +86,7 @@
     {
       "Username": "Autumn",
       "Gender": "female",
-      "DeteOfBirth": "1969-01-21",
+      "DateOfBirth": "1969-01-21",
       "Password": "password",
       "KnownAs": "Autumn",
       "Created": "2017-06-11",
@@ -107,7 +107,7 @@
         {
           "Username": "Bradford",
           "Gender": "male",
-          "DeteOfBirth": "1989-11-21",
+          "DateOfBirth": "1989-11-21",
           "Password": "password",
           "KnownAs": "Bradford",
           "Created": "2017-05-18",
@@ -128,7 +128,7 @@
         {
           "Username": "Dean",
           "Gender": "male",
-          "DeteOfBirth": "1985-04-24",
+          "DateOfBirth": "1985-04-24",
           "Password": "password",
           "KnownAs": "Dean",
           "Created": "2017-04-22",
@@ -149,7 +149,7 @@
         {
           "Username": "Johnson",
           "Gender": "male",
-          "DeteOfBirth": "1967-05-20",
+          "DateOfBirth": "1967-05-20",
           "Password": "password",
           "KnownAs": "Johnson",
           "Created": "2017-04-19",
@@ -170,7 +170,7 @@
         {
           "Username": "Walls",
           "Gender": "male",
-          "DeteOfBirth": "1951-01-12",
+          "DateOfBirth": "1951-01-12",
           "Password": "password",
           "KnownAs": "Walls",
           "Created": "2017-02-20",
@@ -191,7 +191,7 @@
         {
           "Username": "Hodges",
           "Gender": "male",
-          "DeteOfBirth": "1969-09-17",
+          "DateOfBirth": "1969-09-17",
           "Password": "password",
           "KnownAs": "Hodges",
           "Created": "2017-07-03",
